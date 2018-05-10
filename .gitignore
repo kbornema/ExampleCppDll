@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/Cpp/.vs
+/Cpp/Debug
+/Cpp/ExampleCppDll/Debug
+/CSharp/.vs
+/CSharp/ExampleCppDllImport/bin
+/CSharp/ExampleCppDllImport/obj
